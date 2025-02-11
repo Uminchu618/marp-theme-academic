@@ -17,7 +17,7 @@ section {
   padding-top: 90px;
   padding-left: 40px;
   padding-right: 40px;
-  font-size: 21px;
+  font-size: 24px;
 }
 
 /* https://github.com/marp-team/marpit/issues/271 */
@@ -99,6 +99,9 @@ code {
   font-family: 'Source Code Pro', monospace;
 }
 
+.cjk_fallback {
+  font-family: 'Noto Sans JP';
+}
 /* ----- 2 columns layout ----- */
 .flex{
   display: flex;
