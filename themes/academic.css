@@ -99,9 +99,6 @@ code {
   font-family: 'Source Code Pro', monospace;
 }
 
-.cjk_fallback {
-  font-family: 'Noto Sans JP';
-}
 /* ----- 2 columns layout ----- */
 .flex{
   display: flex;
